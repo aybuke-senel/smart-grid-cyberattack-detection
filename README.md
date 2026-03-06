@@ -42,4 +42,4 @@ The proposed Hybrid CNN-LSTM model achieved 99.72% accuracy in detecting replay,
 -----
 
 ## Paper
-The full IEEE conference paper is available in this repository.
+[The full IEEE conference paper is available in this repository.](https://github.com/aybuke-senel/smart-grid-cyberattack-detection/blob/main/Aybuke_Senel_2026_IEEE_SmartGrid_CyberAttackDetection.pdf)
