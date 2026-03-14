@@ -23,12 +23,18 @@ The study focuses on analyzing GOOSE protocol communication data and applying ad
 
 -----
 
+## Dataset
+The study uses the IEEE DataPort Smart Digital Substation Simultaneous Attack Detection dataset, which contains 127,808 GOOSE network messages labeled as normal, replay attack, masquerade attack, and denial-of-service (DoS).
+
+-----
+
 ## Tools & Technologies
 - Python
 - Pandas
 - Scikit-learn
 - SQL
 - Tableau
+- Matplotlib
   
 -----
 
