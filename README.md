@@ -23,6 +23,15 @@ The study focuses on analyzing GOOSE protocol communication data and applying ad
 
 -----
 
+## Tools & Technologies
+- Python
+- Pandas
+- Scikit-learn
+- SQL
+- Tableau
+  
+-----
+
 ## Methods
 The following models were evaluated:
 
@@ -33,6 +42,13 @@ The following models were evaluated:
 - Convolutional Neural Networks (CNN)
 - Long Short-Term Memory Networks (LSTM)
 - Hybrid CNN–LSTM architecture
+
+-----
+
+## Data Visualization
+Data exploration and visualization were performed using Python visualization libraries and Tableau dashboards.
+
+The visualizations were used to analyze network traffic patterns, compare model performance, and better understand attack detection behavior.
 
 -----
 
