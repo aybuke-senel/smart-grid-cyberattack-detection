@@ -6,7 +6,7 @@ This repository contains the IEEE conference paper presented at IDCIoT 2026.
 -----
 
 ## Author
-Aybuke Senel  
+Aybüke Şenel  
 Computer Engineering – Halic University
 
 -----
