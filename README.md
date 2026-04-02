@@ -1,7 +1,7 @@
 # Cyber Attack Detection in Smart Digital Substations
 Machine learning-based cyber attack detection framework for IEC 61850 smart digital substations.
 
-This repository contains the IEEE conference paper presented at IDCIoT 2026.
+This repository contains my [IEEE publication](https://ieeexplore.ieee.org/document/11455674) presented at IDCIoT 2026.
 
 -----
 
